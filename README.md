@@ -1,4 +1,4 @@
-# Anil_Python_Machine_Learning
+# Python_Machine_Learning
 
 # DevTown PYTHON AND MACHINE LEARNING BOOTCAMP
 
