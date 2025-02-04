@@ -1,4 +1,5 @@
 # Python_Machine_Learning
+Python, Machine Learning, Tensorflow 
 
 # DevTown PYTHON AND MACHINE LEARNING BOOTCAMP
 
@@ -18,8 +19,8 @@ learn a lot during these 7 days and it was an amazing experience learning with D
 
 <li>Tensorflow
 
-<br>during these 7 days, and everything was explained from the very basics so that
+<br>During these 7 days, and everything was explained from the very basics so that
 
 anyone with zero experience on programming can learn.
 
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp.
+I enjoyed these 7 days, you can as well.
